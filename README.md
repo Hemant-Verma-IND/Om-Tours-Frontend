@@ -145,13 +145,7 @@ Auto-check for auth state on app load
 🚢 Deployment
 
 🚀 Live on Vercel
-Easily deploy your own version:
-
-Fork this repository
-
-Connect to Vercel
-
-Import project and deploy in one click!
+https://om-tours-iota.vercel.app/
 
 🤝 Contribution
 
